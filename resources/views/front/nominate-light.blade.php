@@ -7,7 +7,7 @@
         <div class="temp1 nlTemp">
             <div class="container2">
                 <div class="temp1-txt">
-                    <h1>Nominate a Light</h1>
+                    <h1>Nominate Lights</h1>
                     <p>Step-by-step guide on how to submit a nomination and what to include</p>
                 </div>
             </div>

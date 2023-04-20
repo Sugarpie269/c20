@@ -5,8 +5,8 @@
         <div class="temp1" id="home">
             <div class="container2">
                 <div class="temp1-txt">
-                    <h1>Celebrate International Women’s Day with One Million Lights</h1>
-                    <p>Nominate a light: individuals or organisations that have made a difference in your life or someone
+                    <h1>The One Million Lights Campaign</h1>
+                    <p>Nominate lights: individuals or organisations that have made a difference in your life or someone
                         else’s, in the area of gender equality and women’s empowerment. See your nominations light up on the
                         world map!</p>
                 </div>
@@ -58,9 +58,9 @@
                             </div>
                             <div class="temp2-accContent">
                                 <p>The campaign launched on March 8th, 2023, International Women’s Day, during an online
-                                    launch event with renowned Indian and international speakers. The Grand Finale of this
-                                    campaign will happen at the C20 Gender Equality & Disability Working Group event on
-                                    April 22nd and 23rd in Odisha.<br> We hope to have collected one million nominations and
+                                    launch event with renowned Indian and international speakers. The Grand Finale of
+                                    this campaign will happen at the C20 India 2023 Summit to be held on July 30-31, 2023
+                                    , in Jaipur.<br> We hope to have collected one million nominations and
                                     will have a special display of lights during the Grand Finale.</p>
                             </div>
                         </div>
@@ -80,7 +80,7 @@
 
                     <div class="temp2-item">
                         <div class="temp2-iHead">
-                            <h6>Nominate a Light</h6>
+                            <h6>Nominate Lights</h6>
                         </div>
                         <div class="temp2-iTxt">
                             <p>One or more people (e.g. mother, father, teacher, friend, colleague), organisations (e.g.
@@ -96,7 +96,7 @@
                             <h6>One Million Sparks of Light</h6>
                         </div>
                         <div class="temp2-iTxt">
-                            <p>Each nomination will be represented as a spark of light on a digital global map, symbolising
+                            <p> Each nomination will be represented as a spark of "light" on a digital global map, symbolising
                                 the spread of collective efforts and illuminating the way towards progress. Selected stories
                                 will be exhibited to the global community through the C20 platform.</p>
                         </div>
@@ -299,7 +299,7 @@
                                 <span><img src="{{ asset('front/img/arrowBtm.svg') }}" alt="drop down"></span>
                             </div>
                             <div class="temp2-accContent">
-                                <p>Each nomination will be reflected on the globe on this website as a spark of “light,” thus lighting up the world with examples of positive change. Selected stories will be showcased on the map.</p>
+                                <p>Each nomination will be reflected on the globe on this website as sparks of “light,” thus lighting up the world with examples of positive change. Selected stories will be showcased on the map.</p>
                             </div>
                         </div>
                         <div class="temp2-accItem">
@@ -326,7 +326,7 @@
                                 <span><img src="{{ asset('front/img/arrowBtm.svg') }}" alt="drop down"></span>
                             </div>
                             <div class="temp2-accContent">
-                                <p>The campaign was launched on March 8th, 2023, International Women’s Day, during a public online event with renowned Indian and international speakers. By the time of the main C20 event organised by the Gender Equality &  Disability Working Group on the 22nd and 23rd of April, we hope to have collected one million nominations.</p>
+                                <p>The campaign was launched on March 8th, 2023, International Women’s Day, during a public online event with renowned Indian and international speakers. By the time of the C20 India 2023 Summit to be held on July 30-31, 2023, in Jaipur, we hope to have collected one million nominations.</p>
                             </div>
                         </div>
                         <div class="temp2-accItem">

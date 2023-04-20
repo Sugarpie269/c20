@@ -144,7 +144,7 @@
                 </select>    	
             </div>
               <div class="form-group nominee-description">
-                  <p>Please describe how the nominee made a difference in your life in 250-500 words</p>
+                  <p>Please describe how the nominee made a difference in your life in 10-500 words</p>
                   <textarea class="form-control" placeholder="Your Answer" name="story"></textarea>
               </div>
               </div>
